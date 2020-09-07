@@ -1,0 +1,21 @@
+/* variables */
+
+/* reset */
+
+/* base styles */
+img {
+    max-width: 100%;
+}
+html {
+    scroll-behavior: smooth;
+}
+nav {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+/* fonts */
+
+/* mobile */
+
